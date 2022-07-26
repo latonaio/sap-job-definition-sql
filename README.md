@@ -11,7 +11,7 @@ https://api.sap.com/api/jobdefinition/overview
 ## sqlの設定ファイル
 sap-job-definition-sql には、sqlの設定ファイルとして以下のsqlファイルが含まれています。  
 
-* sap-job-definition-collection-data.sql（SAP ジョブ定義 - ジョブ定義データ）  
+* sap-job-definition-sql-job-definition-collection-data.sql（SAP ジョブ定義 - ジョブ定義データ）  
 
 ## MySQLのセットアップ / Kubernetesの設定 / SQLテーブルの作成方法
 MySQLのセットアップ / Kubernetesの設定 / 具体的なSQLテーブルの作成方法、については、[mysql-kube](https://github.com/latonaio/mysql-kube)を参照ください。
